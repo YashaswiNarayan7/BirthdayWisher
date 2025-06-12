@@ -4,7 +4,7 @@ Made with React with Hooks.
 
 ## Getting started
 
-You can view a live demo over at  https://yashaswinarayan7.github.io/wishforbirthday
+You can view a live demo over at  https://yashaswinarayan7.github.io/ChronoWish
 
 To get It running locally:
 
