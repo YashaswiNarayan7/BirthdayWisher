@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf3571ce4b76c370a0404d46ea2612ee",
+    "revision": "145704df748592f7241952a18f1d1283",
     "url": "/BirthdayWisher/index.html"
   },
   {
-    "revision": "2dbdd42667781da1b47d",
+    "revision": "370c1df008720884cc65",
     "url": "/BirthdayWisher/static/css/main.26086a97.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BirthdayWisher/static/js/2.728e76d3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2dbdd42667781da1b47d",
-    "url": "/BirthdayWisher/static/js/main.39685b58.chunk.js"
+    "revision": "370c1df008720884cc65",
+    "url": "/BirthdayWisher/static/js/main.69131b75.chunk.js"
   },
   {
     "revision": "942e4fc1432265a8cff0",
