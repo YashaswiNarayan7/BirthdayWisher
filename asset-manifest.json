@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/BirthdayWisher/static/css/main.26086a97.chunk.css",
-    "main.js": "/BirthdayWisher/static/js/main.69131b75.chunk.js",
-    "main.js.map": "/BirthdayWisher/static/js/main.69131b75.chunk.js.map",
+    "main.js": "/BirthdayWisher/static/js/main.6993f299.chunk.js",
+    "main.js.map": "/BirthdayWisher/static/js/main.6993f299.chunk.js.map",
     "runtime-main.js": "/BirthdayWisher/static/js/runtime-main.ea5c21bd.js",
     "runtime-main.js.map": "/BirthdayWisher/static/js/runtime-main.ea5c21bd.js.map",
-    "static/js/2.728e76d3.chunk.js": "/BirthdayWisher/static/js/2.728e76d3.chunk.js",
-    "static/js/2.728e76d3.chunk.js.map": "/BirthdayWisher/static/js/2.728e76d3.chunk.js.map",
+    "static/js/2.abd8a5b5.chunk.js": "/BirthdayWisher/static/js/2.abd8a5b5.chunk.js",
+    "static/js/2.abd8a5b5.chunk.js.map": "/BirthdayWisher/static/js/2.abd8a5b5.chunk.js.map",
     "index.html": "/BirthdayWisher/index.html",
-    "precache-manifest.2d2c92dd321f1c2151b58961c8a10827.js": "/BirthdayWisher/precache-manifest.2d2c92dd321f1c2151b58961c8a10827.js",
+    "precache-manifest.ff36f9f5a48bba7ed1138976ee2a2048.js": "/BirthdayWisher/precache-manifest.ff36f9f5a48bba7ed1138976ee2a2048.js",
     "service-worker.js": "/BirthdayWisher/service-worker.js",
     "static/css/main.26086a97.chunk.css.map": "/BirthdayWisher/static/css/main.26086a97.chunk.css.map",
-    "static/js/2.728e76d3.chunk.js.LICENSE.txt": "/BirthdayWisher/static/js/2.728e76d3.chunk.js.LICENSE.txt",
+    "static/js/2.abd8a5b5.chunk.js.LICENSE.txt": "/BirthdayWisher/static/js/2.abd8a5b5.chunk.js.LICENSE.txt",
     "static/media/githubLogo.svg": "/BirthdayWisher/static/media/githubLogo.90118e04.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ea5c21bd.js",
-    "static/js/2.728e76d3.chunk.js",
+    "static/js/2.abd8a5b5.chunk.js",
     "static/css/main.26086a97.chunk.css",
-    "static/js/main.69131b75.chunk.js"
+    "static/js/main.6993f299.chunk.js"
   ]
 }
