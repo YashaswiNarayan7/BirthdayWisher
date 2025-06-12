@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ChronoWish/static/css/main.26086a97.chunk.css",
+    "main.js": "/ChronoWish/static/js/main.6993f299.chunk.js",
+    "main.js.map": "/ChronoWish/static/js/main.6993f299.chunk.js.map",
+    "runtime-main.js": "/ChronoWish/static/js/runtime-main.c9d5fe75.js",
+    "runtime-main.js.map": "/ChronoWish/static/js/runtime-main.c9d5fe75.js.map",
+    "static/js/2.abd8a5b5.chunk.js": "/ChronoWish/static/js/2.abd8a5b5.chunk.js",
+    "static/js/2.abd8a5b5.chunk.js.map": "/ChronoWish/static/js/2.abd8a5b5.chunk.js.map",
+    "index.html": "/ChronoWish/index.html",
+    "precache-manifest.ea70409bb64f2a77129143b27b2e6803.js": "/ChronoWish/precache-manifest.ea70409bb64f2a77129143b27b2e6803.js",
+    "service-worker.js": "/ChronoWish/service-worker.js",
+    "static/css/main.26086a97.chunk.css.map": "/ChronoWish/static/css/main.26086a97.chunk.css.map",
+    "static/js/2.abd8a5b5.chunk.js.LICENSE.txt": "/ChronoWish/static/js/2.abd8a5b5.chunk.js.LICENSE.txt",
+    "static/media/githubLogo.svg": "/ChronoWish/static/media/githubLogo.90118e04.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9d5fe75.js",
+    "static/js/2.abd8a5b5.chunk.js",
+    "static/css/main.26086a97.chunk.css",
+    "static/js/main.6993f299.chunk.js"
+  ]
+}
