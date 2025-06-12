@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/BirthdayWisher/static/css/main.26086a97.chunk.css",
-    "main.js": "/BirthdayWisher/static/js/main.6993f299.chunk.js",
-    "main.js.map": "/BirthdayWisher/static/js/main.6993f299.chunk.js.map",
-    "runtime-main.js": "/BirthdayWisher/static/js/runtime-main.ea5c21bd.js",
-    "runtime-main.js.map": "/BirthdayWisher/static/js/runtime-main.ea5c21bd.js.map",
-    "static/js/2.abd8a5b5.chunk.js": "/BirthdayWisher/static/js/2.abd8a5b5.chunk.js",
-    "static/js/2.abd8a5b5.chunk.js.map": "/BirthdayWisher/static/js/2.abd8a5b5.chunk.js.map",
-    "index.html": "/BirthdayWisher/index.html",
-    "precache-manifest.ff36f9f5a48bba7ed1138976ee2a2048.js": "/BirthdayWisher/precache-manifest.ff36f9f5a48bba7ed1138976ee2a2048.js",
-    "service-worker.js": "/BirthdayWisher/service-worker.js",
-    "static/css/main.26086a97.chunk.css.map": "/BirthdayWisher/static/css/main.26086a97.chunk.css.map",
-    "static/js/2.abd8a5b5.chunk.js.LICENSE.txt": "/BirthdayWisher/static/js/2.abd8a5b5.chunk.js.LICENSE.txt",
-    "static/media/githubLogo.svg": "/BirthdayWisher/static/media/githubLogo.90118e04.svg"
+    "main.css": "/wishforbirthday/static/css/main.26086a97.chunk.css",
+    "main.js": "/wishforbirthday/static/js/main.6993f299.chunk.js",
+    "main.js.map": "/wishforbirthday/static/js/main.6993f299.chunk.js.map",
+    "runtime-main.js": "/wishforbirthday/static/js/runtime-main.6bd4a597.js",
+    "runtime-main.js.map": "/wishforbirthday/static/js/runtime-main.6bd4a597.js.map",
+    "static/js/2.abd8a5b5.chunk.js": "/wishforbirthday/static/js/2.abd8a5b5.chunk.js",
+    "static/js/2.abd8a5b5.chunk.js.map": "/wishforbirthday/static/js/2.abd8a5b5.chunk.js.map",
+    "index.html": "/wishforbirthday/index.html",
+    "precache-manifest.5b88a0dfd629e5866c33d2cdbab7562b.js": "/wishforbirthday/precache-manifest.5b88a0dfd629e5866c33d2cdbab7562b.js",
+    "service-worker.js": "/wishforbirthday/service-worker.js",
+    "static/css/main.26086a97.chunk.css.map": "/wishforbirthday/static/css/main.26086a97.chunk.css.map",
+    "static/js/2.abd8a5b5.chunk.js.LICENSE.txt": "/wishforbirthday/static/js/2.abd8a5b5.chunk.js.LICENSE.txt",
+    "static/media/githubLogo.svg": "/wishforbirthday/static/media/githubLogo.90118e04.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea5c21bd.js",
+    "static/js/runtime-main.6bd4a597.js",
     "static/js/2.abd8a5b5.chunk.js",
     "static/css/main.26086a97.chunk.css",
     "static/js/main.6993f299.chunk.js"
