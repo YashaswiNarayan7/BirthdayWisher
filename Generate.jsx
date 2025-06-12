@@ -6,11 +6,16 @@ const Generate = () => {
   const [day, setDay] = useState(1);
   const [month, setMonth] = useState(1);
   const [link, setLink] = useState('');
+
   const generateLink = () => {
-    setLink(
-      ` https://yashaswinarayan7.github.io/BirthdayWisher/${name}/${day}/${month}`
-    );
+    const trimmedName = name.trim();
+    if (trimmedName && day && month) {
+      setLink(
+        `https://yashaswinarayan7.github.io/BirthdayWisher/#/birthday/${trimmedName}/${day}/${month}`
+      );
+    }
   };
+
   return (
     <div className='page'>
       <h1>Generate Here</h1>
@@ -31,9 +36,7 @@ const Generate = () => {
         />
         <select value={month} onChange={(e) => setMonth(e.target.value)}>
           <option value=''>Select Month</option>
-          <option selected value='1'>
-            January
-          </option>
+          <option value='1'>January</option>
           <option value='2'>February</option>
           <option value='3'>March</option>
           <option value='4'>April</option>
@@ -47,19 +50,18 @@ const Generate = () => {
           <option value='12'>December</option>
         </select>
       </div>
-      <button className='btn' onClick={() => generateLink()}>
+
+      <button className='btn' onClick={generateLink}>
         Generate Link
       </button>
 
-      {link !== '' ? (
+      {link && (
         <>
           <p className='gen-link'>{link}</p>
-          <Link to={`birthday/${name}/${day}/${month}`}>
+          <Link to={`/birthday/${name}/${day}/${month}`}>
             <button className='btn'>Visit Link</button>
           </Link>
         </>
-      ) : (
-        ''
       )}
     </div>
   );
